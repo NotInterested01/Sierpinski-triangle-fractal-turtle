@@ -1,0 +1,5 @@
+The Python code I provided generates a Sierpinski Triangle fractal. The Sierpinski Triangle is a well-known fractal pattern that is formed by recursively subdividing an equilateral triangle into smaller equilateral triangles.
+
+The draw_fractal function uses recursion to draw the Sierpinski Triangle pattern. Each iteration of the recursion draws a smaller triangle, and this process continues until the order parameter becomes 0. The angles of 60 and -120 degrees are used to position the Turtle for each iteration, creating the intricate and self-replicating pattern characteristic of the Sierpinski Triangle.
+
+When you run the code, you should see a Turtle graphics window displaying the Sierpinski Triangle fractal. You can experiment with different values for fractal_order and fractal_size to observe how the complexity and size of the fractal change.
